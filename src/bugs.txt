@@ -1,0 +1,10 @@
+- limit fields length i.e.content
+- display full list
+- back != home, make back button
+- content format
+- delete post
+- new post - "Blog posts", search, save - localize in russian
+- omit special symbols
+- admin and user see only their own posts
+- header format in line
+- first blogPost hasnt been populated
